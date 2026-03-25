@@ -26,12 +26,19 @@ I specialize in building automation frameworks from scratch, improving software 
 
 My professional mission is not only to deliver high-quality software but also to **mentor others, share knowledge, and contribute to strong engineering cultures**.
 
-I strongly believe that:
+<hr>
+<h3 align="left">✨ I strongly believe that:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Whoever%20teaches%20others,%20learns%20twice" alt="Dev Quote" />
+</p>
+<hr>
 
-> *"Whoever teaches others, learns twice."*
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisaFerCo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaFerCo&layout=donut&theme=synthwave)
 ---
-
 ## 🚀 What I Do
 
 - Design and implement **test automation frameworks** for web, APIs, and backend services  
